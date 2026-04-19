@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "kube-axum-cert-mamanger"
+name = "kube-axum-cert-manager"
 version = "0.1.0"
